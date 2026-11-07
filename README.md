@@ -1,5 +1,7 @@
 # PoliMi Notes 
 
+❤️ Course notes
+
 # Introduction
 This repository contains course notes for the different modules/courses part of the MSc Management Engineering degree from Politecnico di Milano.
 
